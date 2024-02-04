@@ -1,0 +1,6 @@
+[submodule "expressJS_API_test-client"]
+	path = expressJS_API_test-client
+	url = https://github.com/enit-project/expressJS_API_test-client.git
+[submodule "expressJS_API_test-server"]
+	path = expressJS_API_test-server
+	url = https://github.com/enit-project/expressJS_API_test-server.git
